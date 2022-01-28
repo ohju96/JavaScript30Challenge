@@ -4,6 +4,10 @@
 * 참고 페이지 : https://javascript30.com/
 <br>
 
-## DAY | 1
+### DAY | 1
+* JavaScript Drum Kit
+* 22.01.28
+
 <br>
-JavaScript Drum Kit
+
+

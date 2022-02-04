@@ -17,35 +17,35 @@
 <br>
 
 ### DAY | 3
-* JavaScript Drum Kit
+* Playing with CSS Variables and JS
 * 22.01.30
 
 <br>
 
 ### DAY | 4
-* CSS + JS Clock
+* Array Cardio Day 1
 * 22.01.31
 
 * <br>
 
 ### DAY | 5
-* JavaScript Drum Kit
+* Flex Panels Image Gallery
 * 22.02.01
 
 <br>
 
 ### DAY | 6
-* CSS + JS Clock
+* Ajax Type Ahead
 * 22.02.02
 
 <br>
 
 ### DAY | 7
-* JavaScript Drum Kit
+* Array Cardio Day 2
 * 22.02.03
 
 <br>
 
 ### DAY | 8
-* CSS + JS Clock
+* Fun with HTML5 Canvas
 * 22.02.04

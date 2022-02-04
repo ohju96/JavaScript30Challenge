@@ -13,7 +13,7 @@
 ### DAY | 2
 * CSS + JS Clock
 * 22.01.29
-* 
+
 <br>
 
 ### DAY | 3

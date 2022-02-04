@@ -13,3 +13,39 @@
 ### DAY | 2
 * CSS + JS Clock
 * 22.01.29
+* 
+<br>
+
+### DAY | 3
+* JavaScript Drum Kit
+* 22.01.30
+
+<br>
+
+### DAY | 4
+* CSS + JS Clock
+* 22.01.31
+
+* <br>
+
+### DAY | 5
+* JavaScript Drum Kit
+* 22.02.01
+
+<br>
+
+### DAY | 6
+* CSS + JS Clock
+* 22.02.02
+
+<br>
+
+### DAY | 7
+* JavaScript Drum Kit
+* 22.02.03
+
+<br>
+
+### DAY | 8
+* CSS + JS Clock
+* 22.02.04
